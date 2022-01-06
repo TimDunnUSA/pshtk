@@ -6,7 +6,7 @@ Everyone uses PowerShell just a little bit differently. Here are some snippets I
 
 ### File Organization
 
-This repository is laid out as if it is _the_ `WindowsPowerShell` folder under `[Environment]::GetFolderPath( 'MyDocuments' )`. While this is how _I_ plan to use it, I strongly recommend you clone it elsewhere. If you're looking at this repository, chances are you've already made substantial investments into your own `$PROFILE` and setup. 
+This repository is laid out as if it is _the_ `WindowsPowerShell` folder under `[Environment]::GetFolderPath( 'MyDocuments' )`. While this is how _I_ plan to use it, I strongly recommend you clone it elsewhere. If you're looking at this repository, chances are you've already made substantial investments into your own `$PROFILE` and setup.
 
 ## Contributing
 
